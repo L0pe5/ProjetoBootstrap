@@ -28,7 +28,7 @@ Criar comportamento visual alternativo usando apenas classes responsivas
 
 Justificar em comentário HTML
 
-🖼️ ETAPA 2 — HERO SECTION
+# 🖼️ ETAPA 2 — HERO SECTION
 
 Criar uma seção inicial com:
 
@@ -48,7 +48,7 @@ Alterar ordem dos elementos por breakpoint
 
 Centralizar verticalmente usando utilitários
 
-🧱 ETAPA 3 — SEÇÃO DE CONTEÚDO 
+# 🧱 ETAPA 3 — SEÇÃO DE CONTEÚDO 
 
 Criar 12 cards, com:
 
@@ -80,7 +80,7 @@ d-flex
 
 flex-column
 
-📊 ETAPA 4 — TABELA PROFISSIONAL
+# 📊 ETAPA 4 — TABELA PROFISSIONAL
 
 Criar uma tabela com:
 
@@ -98,7 +98,7 @@ table-responsive
 
 Sem quebrar layout em mobile
 
-🧾 ETAPA 5 — FORMULÁRIOS (SEM VALIDAÇÃO JS)
+# 🧾 ETAPA 5 — FORMULÁRIOS (SEM VALIDAÇÃO JS)
 
 Criar 2 formulários grandes:
 
@@ -130,7 +130,7 @@ is-invalid
 
 form-text
 
-🪟 ETAPA 6 — MODAIS
+# 🪟 ETAPA 6 — MODAIS
 
 ❌ JS proibido
 ✔ CSS permitido
@@ -147,7 +147,7 @@ Utilitários Bootstrap
 
 Checkbox hack (HTML + CSS)
 
-📱 ETAPA 7 — RESPONSIVIDADE EXTREMA
+# 📱 ETAPA 7 — RESPONSIVIDADE EXTREMA
 Obrigatório:
 
 Usar:
@@ -168,7 +168,7 @@ Muda posição
 
 Troca alinhamento
 
-🎨 ETAPA 8 — SISTEMA DE DESIGN
+# 🎨 ETAPA 8 — SISTEMA DE DESIGN
 Regras:
 
 Usar no mínimo:
@@ -181,7 +181,7 @@ Usar no mínimo:
 
 Coerência visual obrigatória
 
-🧠 ETAPA 9 — DASHBOARD (SEM JS)
+# 🧠 ETAPA 9 — DASHBOARD (SEM JS)
 
 Criar um dashboard com:
 
@@ -197,7 +197,7 @@ Alerts
 
 📌 Sidebar deve usar Grid + Flex, não position absolute.
 
-📝 ETAPA 10 — DOCUMENTAÇÃO OBRIGATÓRIA
+# 📝 ETAPA 10 — DOCUMENTAÇÃO OBRIGATÓRIA
 
 Criar um arquivo README.md contendo:
 
